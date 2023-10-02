@@ -6,12 +6,3 @@
     padding:20px;
     margin-right:10px;
 }
-
-.mouseH:hover{
-    width:100px;
-    height:100px;
-    background-color:red;
-    border-radius:20px;
-    padding:20px;
-    margin-right:10px;
-}
